@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JasonSatherr
 - 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on games
+- 🌱 I’m currently working cross functionally across teams as a full stack engineer
+- 💞️ I’m loving driving product value to customers through code
 - 📫 How to reach me: NULL POINTER
 
 
